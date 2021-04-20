@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sqrooge
-- 👀 I’m interested in building my own server
+- 👀 I’m interested in building my own server and MagicMirror
 - 🌱 I’m currently learning a bit of Java and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, out here
